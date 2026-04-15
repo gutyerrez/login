@@ -1,0 +1,6 @@
+name: Login
+main: com.xspacy.login.LoginSpigotPlugin
+version: 1.0.0
+load: POSTWORLD
+depend:
+  - Core
